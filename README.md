@@ -1,2 +1,2 @@
 # Regression_project
-This project aims to analyse CO₂ emissions across various sectors including industries, automobiles, agriculture, and domestic activities. It consist team size of 3 and guided by Edunet foundation skills4future program
+This project is about the use of machine learning in agriculture. How we can use ai technology to reduce environmental issues . Here we are displaying the data, encoding the data, processing the data and calculating the errors in the dataset. This project aims to analyse CO₂ emissions across various sectors including industries, automobiles, agriculture, and domestic activities. It consist team size of 3 and guided by Edunet foundation skills4future program
